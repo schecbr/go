@@ -1,7 +1,7 @@
 package main
 
 import (
-	"bufio"
+        "bufio"
 	"crypto/md5"
 	"flag"
 	"fmt"
